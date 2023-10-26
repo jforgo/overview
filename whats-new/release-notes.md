@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2023
 
-lastupdated: "2023-09-20"
+lastupdated: "2023-10-26"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -19,6 +19,17 @@ content-type: release-note
 
 Stay up-to-date with the new features that are available on the {{site.data.keyword.Bluemix}} platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience.
 {: shortdesc}
+
+## October 2023
+{: #oct-2023}
+
+### 26 October 2023
+{: #overview-oct2423}
+
+Symantec VIP 2FA is deprecated
+:   If you are currently using Symantec VIP as your external authentication method, you can continue to use it and add subscribers as needed until 24 October 2024. If you are not already using Symantec VIP, then you can't purchase Symantec VIP to use as your external authentication method as of 24 October 2023.
+
+   All customers currently using Symantec VIP must migrate to {{site.data.keyword.cloud_notm}} MFA by 24 October 2024. For more information about how easy is it to migrate to this no-cost MFA option, see [Migrating to {{site.data.keyword.cloud_notm}} MFA](/docs/account?topic=account-migrate-mfa).
 
 ## September 2023
 {: #sept-2023}
