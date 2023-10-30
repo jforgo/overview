@@ -28,9 +28,9 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 {: release-note}
 
 Symantec VIP 2FA is deprecated
-:   If you are currently using Symantec VIP as your external authentication method, you can continue to use it and add subscribers as needed until 24 October 2024. If you are not already using Symantec VIP, then you can't purchase Symantec VIP to use as your external authentication method as of 24 October 2023.
+:   If you are currently using Symantec VIP as your external authentication method, you can continue to use it and add subscribers as needed until 26 October 2024. If you are not already using Symantec VIP, then you can't purchase Symantec VIP to use as your external authentication method as of 26 October 2023.
 
-   All customers currently using Symantec VIP must migrate to {{site.data.keyword.cloud_notm}} MFA by 24 October 2024. For more information about how easy is it to migrate to this no-cost MFA option, see [Migrating to {{site.data.keyword.cloud_notm}} MFA](/docs/account?topic=account-migrate-mfa).
+   All customers currently using Symantec VIP must migrate to {{site.data.keyword.cloud_notm}} MFA by 26 October 2024. For more information about how easy is it to migrate to this no-cost MFA option, see [Migrating to {{site.data.keyword.cloud_notm}} MFA](/docs/account?topic=account-migrate-mfa).
 
 ## September 2023
 {: #sept-2023}
