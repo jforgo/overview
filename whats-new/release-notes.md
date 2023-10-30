@@ -25,6 +25,7 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 
 ### 26 October 2023
 {: #overview-oct2423}
+{: release-note}
 
 Symantec VIP 2FA is deprecated
 :   If you are currently using Symantec VIP as your external authentication method, you can continue to use it and add subscribers as needed until 24 October 2024. If you are not already using Symantec VIP, then you can't purchase Symantec VIP to use as your external authentication method as of 24 October 2023.
