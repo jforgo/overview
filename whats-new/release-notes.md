@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2023
 
-lastupdated: "2023-10-26"
+lastupdated: "2023-11-06"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -19,6 +19,18 @@ content-type: release-note
 
 Stay up-to-date with the new features that are available on the {{site.data.keyword.Bluemix}} platform so that you get the most out of your {{site.data.keyword.cloud_notm}} experience.
 {: shortdesc}
+
+## November 2023
+{: #nov-2023}
+
+### 06 November 2023
+{: #overview-nov0623}
+{: release-note}
+
+Introducing environments and general improvements to projects API and CLI
+:   You can now group configurations together within a project by using environments. Environments can also contain properties like input values that are automatically added to configurations. This release also includes updates to the projects API and CLI. The commands are normalized so they follow a regular pattern, and terminology is now aligned across our UI, CLI, and API.
+
+   For more information on updates to the projects API, see the [projects API change log](/docs/secure-enterprise?topic=secure-enterprise-projects-api-change-log). For more information on updates to the projects CLI, see the [projects CLI change log](/docs/secure-enterprise?topic=secure-enterprise-cli-change-log).
 
 ## October 2023
 {: #oct-2023}
