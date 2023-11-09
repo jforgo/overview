@@ -51,6 +51,13 @@ Symantec VIP 2FA is deprecated
 
    All customers currently using Symantec VIP must migrate to {{site.data.keyword.cloud_notm}} MFA by 26 October 2024. For more information about how easy is it to migrate to this no-cost MFA option, see [Migrating to {{site.data.keyword.cloud_notm}} MFA](/docs/account?topic=account-migrate-mfa).
 
+### 19 October 2023
+{: #overview-oct1923}
+{: release-note}
+
+Partner Center Build & Grow is deprecated
+:   As of 19 October 2023, Partner Center Build and Grow is no longer supported. The new simplified and unified build experience has moved to the {{site.data.keyword.IBM_notm}} Partner Plus website, where you can start enrolling. For more information, go to the [Partner Plus](https://www.ibm.com/partnerplus){: external} website and enroll by clicking **Join {{site.data.keyword.IBM_notm}} Partner Plus**.   
+
 ## September 2023
 {: #sept-2023}
 
