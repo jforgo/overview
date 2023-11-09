@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2023
 
-lastupdated: "2023-11-06"
+lastupdated: "2023-11-09"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -22,6 +22,13 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 
 ## November 2023
 {: #nov-2023}
+
+### 09 November 2023
+{: #overview-nov0923}
+{: release-note}
+
+Onboarding virtual server images with Terraform is deprecated
+:   As of 9 November 2023, the option to onboard virtual server images with Terraform is deprecated. If you onboarded software by using this delivery method before this date, your customers can still install the VSIs, but you can't provide any version updates. After 29 March 2024, onboarding virtual server images with Terraform is no longer supported as a delivery method, which means that no new virtual server images with Terraform can be onboarded. Existing VSIs in the {{site.data.keyword.cloud_notm}} catalog will be available to use, but to take advantage of version updates and ensure continued support, onboard virtual server images for Virtual Private Cloud directly. For more information, see [Onboarding a virtual server image for VPC](/docs/account?topic=account-catalog-vsivpc-tutorial).
 
 ### 06 November 2023
 {: #overview-nov0623}
