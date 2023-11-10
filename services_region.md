@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2023
-lastupdated: "2023-11-09"
+lastupdated: "2023-11-10"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -95,7 +95,6 @@ Services that are hosted globally create resources that operate across multiple 
 | IBM Match 360 with Watson | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | IBM watsonx Code Assistant | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Image Service for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Informix | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Instrument Analytics | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Internet Services | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Internet of Things Platform |  |  |  |  | 
@@ -224,7 +223,6 @@ Services that are hosted globally create resources that operate across multiple 
 | IBM Match 360 with Watson |  |  |  | 
 | IBM watsonx Code Assistant |  |  |  | 
 | Image Service for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Informix | ![Checkmark icon](../icons/checkmark-icon.svg)  \n *Data hosted in London* |  |  | 
 | Instrument Analytics |  |  |  | 
 | Internet Services | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Internet of Things Platform |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
@@ -257,7 +255,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Secure Gateway | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Security Group for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Security and Compliance Center |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
-| Security and Compliance Center Workload Protection | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
+| Security and Compliance Center Workload Protection | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Simulated Historical Instrument Analytics |  |  |  | 
 | Simulated Instrument Analytics |  |  |  | 
 | Software Instance | Hosted Globally | Hosted Globally | Hosted Globally | 
@@ -353,7 +351,6 @@ Services that are hosted globally create resources that operate across multiple 
 | IBM Match 360 with Watson |  |  |  |  | 
 | IBM watsonx Code Assistant |  |  |  |  | 
 | Image Service for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
-| Informix | ![Checkmark icon](../icons/checkmark-icon.svg)  \n *Data hosted in Sydney* |  |  |  | 
 | Instrument Analytics |  |  |  |  | 
 | Internet Services | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Internet of Things Platform |  |  |  |  | 
