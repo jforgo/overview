@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2023
-lastupdated: "2023-11-10"
+lastupdated: "2023-11-11"
 
 keywords: location, regions, data centers, service location, service availability, multizone regions, MZR
 
@@ -184,7 +184,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Compose for Redis | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Compose for etcd | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Container Registry | Hosted Globally | Hosted Globally | Hosted Globally | 
-| Continuous Delivery | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
+| Continuous Delivery | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cost and Asset Management |  |  |  | 
 | DNS Services | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Data Engine (previously SQL Query) |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
