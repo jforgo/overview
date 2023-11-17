@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2023
 
-lastupdated: "2023-11-09"
+lastupdated: "2023-11-17"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -22,6 +22,14 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 
 ## November 2023
 {: #nov-2023}
+
+### 17 November 2023
+{: #overview-nov1723}
+{: release-note}
+
+Protect your private catalog and private products
+:   Add an extra layer of protection to your private catalogs with context-based restrictions. Users can view the catalogs that you protect only if they satisfy your rule. For more information, see [Protecting catalogs with context-based restrictions](/docs/account?topic=account-cbr&interface=terraform).
+
 
 ### 09 November 2023
 {: #overview-nov0923}
