@@ -2,9 +2,9 @@
 
 copyright:
 
-  years: 2021, 2022
+  years: 2021, 2023
 
-lastupdated: "2022-07-28"
+lastupdated: "2023-12-04"
 
 keywords: SLO, service level objectives
 
@@ -117,7 +117,6 @@ The following table describes the service level objectives (SLOs) for the high i
 
 | Platform service | Availability target | High availability guidance |
 |----------|---------|---------|
-| {{site.data.keyword.compliance_long}} | 99.999% | [Understanding high availability and disaster recovery for Security and Compliance Center](/docs/security-compliance?topic=security-compliance-ha-dr) |
 | {{site.data.keyword.cloud-shell_notm}} | 99.999% | [Understanding high availability and disaster recovery for Cloud Shell](/docs/cloud-shell?topic=cloud-shell-ha-dr) |
 {: caption="Table 7. Service level objectives (SLOs) for the {{site.data.keyword.cloud_notm}} platform services" caption-side="bottom"}
 
@@ -183,9 +182,6 @@ The following table describes the service level objectives (SLOs) for the high i
 {: caption="Table 12. Service level objectives (SLOs) for the {{site.data.keyword.cloud_notm}} analytics services" caption-side="bottom"}
 
 
-
-
-
 ### Database services
 {: #slo-high-datbase-services}
 
@@ -215,6 +211,7 @@ The following table describes the service level objectives (SLOs) for the high i
 | {{site.data.keyword.contdelivery_short}} | 99.999% | [High availability and disaster recovery](/docs/ContinuousDelivery?topic=ContinuousDelivery-ha-dr) |
 | {{site.data.keyword.bpfull_notm}} | 99.999% | [High availability](/docs/schematics?topic=schematics-high-availability) |
 | {{site.data.keyword.apigw_full_notm}} | 99.999% | [High availability and disaster recovery](/docs/api-gateway?topic=api-gateway-ha-dr) |
+| {{site.data.keyword.en_full_notm}}  | 99.99% | [Understanding high availability for Event Notifications](/docs/event-notifications?topic=event-notifications-high-availability) |
 {: caption="Table 14. Service level objectives (SLOs) for the {{site.data.keyword.cloud_notm}} developer tools services" caption-side="bottom"}
 
 ### Logging and monitoring services
@@ -247,9 +244,9 @@ The following table describes the service level objectives (SLOs) for the high i
 
 | Security service | Availability target | High availability guidance |
 |----------|---------|---------|
-| {{site.data.keyword.secrets-manager_full_notm}} | 99.999% |  [Understanding high availability and disaster recovery for Secrets Manager](/docs/secrets-manager?topic=secrets-manager-ha-dr) |
 | {{site.data.keyword.appid_full_notm}} | 99.999% |  [Understanding high availability and disaster recovery for App ID](/docs/appid?topic=appid-ha-dr) |
-| {{site.data.keyword.cloudcerts_long_notm}} | 99.999% | [Understanding high availability and disaster recovery for Certificate Manager](/docs/certificate-manager?topic=certificate-manager-ha-dr) |
+| {{site.data.keyword.secrets-manager_full_notm}} | 99.999% |  [Understanding high availability and disaster recovery for Secrets Manager](/docs/secrets-manager?topic=secrets-manager-ha-dr) |
+| {{site.data.keyword.compliance_long}} | 99.999% | [Understanding high availability for Security and Compliance Center](/docs/security-compliance?topic=security-compliance-ha) |
 {: caption="Table 17. Service level objectives (SLOs) for the {{site.data.keyword.cloud_notm}} security services" caption-side="bottom"}
 
 
