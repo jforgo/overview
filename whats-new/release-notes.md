@@ -52,7 +52,7 @@ Onboarding virtual server images with Terraform is deprecated
 Introducing environments and general improvements to projects API and CLI
 :   You can now group configurations together within a project by using environments. Environments can also contain properties like input values that are automatically added to configurations. This release also includes updates to the projects API and CLI. The commands are normalized so they follow a regular pattern, and terminology is now aligned across our UI, CLI, and API.
 
-   For more information on updates to the projects API, see the [projects API change log](/docs/secure-enterprise?topic=secure-enterprise-projects-api-change-log). For more information on updates to the projects CLI, see the [projects CLI change log](/docs/secure-enterprise?topic=secure-enterprise-cli-change-log).
+   For more information on environments, see [Controlling deployments by using environments](/docs/secure-enterprise?topic=secure-enterprise-best-practices-projects#best-practice-env). For more information on updates to the projects API, see the [projects API change log](/docs/secure-enterprise?topic=secure-enterprise-projects-api-change-log). For more information on updates to the projects CLI, see the [projects CLI change log](/docs/secure-enterprise?topic=secure-enterprise-cli-change-log).
 
 ## October 2023
 {: #oct-2023}
