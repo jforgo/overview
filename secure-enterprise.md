@@ -3,9 +3,9 @@
 
 copyright:
   years: 2023
-lastupdated: "2023-06-14"
+lastupdated: "2023-12-06"
 
-keywords:
+keywords: deployable architecture, secure enterprise workloads
 
 subcollection: overview
 
@@ -56,6 +56,8 @@ Visit the IBM Cloud catalog to check out the secure by default deployable archit
 ## Defining your compliance strategy
 {: #define-enterprise-compliance}
 
+<!-- Planning and defining your enterprise's goals for running secure workloads on IBM Cloud is essential to your success, as building infrastructure and applications in the cloud can be time consuming and error-prone.-->
+
 By planning and defining your enterprise's goals for running secure workloads on {{site.data.keyword.cloud_notm}} early in the process, you can reduce the time to production for building infrastructure and applications in the cloud. With {{site.data.keyword.cloud_notm}}, you can save your business time and money by taking advantage of our automation and standardized best practices as you work. Get started by reviewing our predefined, compliant architectures and control libraries to see how your industry fits in the cloud.
 
 ### Understanding security and compliance requirements
@@ -66,7 +68,7 @@ While you're working through the planning phase of running your enterprise solut
 ### Identifying the right infrastructure architecture
 {: #define-architecture}
 
-Instead of figuring out how to assemble a compliant infrastructure architecture on your own, you can review the deployable architectures that are available in [the catalog](/catalog#reference_architecture). {{site.data.keyword.cloud_notm}} provides automation for the deployment of common architectural patterns that combine one or more cloud resources, which are known as deployable architectures. Each [deployable architecture](#x10293733){: term} is built and maintained by {{site.data.keyword.cloud_notm}} experts following {{site.data.keyword.cloud_notm}} best practices to take the guesswork out of the architecture design process and reduce the time that it takes to deploy to just minutes. Compliance managers and solution architects can review the components of the architecture and the level of compliance that each deployable architecture meets by reviewing the details directly from the catalog detail pages.
+Instead of figuring out how to assemble a compliant infrastructure architecture on your own, you can review the deployable architectures that are available in [the catalog](/catalog#reference_architecture). {{site.data.keyword.cloud_notm}} provides automation for the deployment of common architectural patterns that combine one or more cloud resources, known as deployable architectures. Each [deployable architecture](#x10293733){: term} is built and maintained by {{site.data.keyword.cloud_notm}} experts following {{site.data.keyword.cloud_notm}} best practices to take the guesswork out of the architecture design process and reduce the time that it takes to deploy to just minutes. Compliance managers and solution architects can review the components of the architecture and the level of compliance that each deployable architecture meets by reviewing the details directly from the catalog detail pages.
 
 ![IBM Cloud catalog showing deployable architecture tiles](images/catalog.svg){: caption="Figure 1. IBM Cloud catalog showing deployable architecture tiles" caption-side="bottom"}
 
@@ -77,7 +79,7 @@ If you work in a financial institution, you might want to work with {{site.data.
 
 When your team has evaluated and chosen a deployable architecture, development engineers can use a [project](/docs/secure-enterprise?topic=secure-enterprise-understanding-projects#project-benefits) to configure it to fit your enterprise's business needs.
 
-A project is a named collection of configurations that are used to manage related resources and Infrastructure as code (IaC) deployments across accounts. They enable your teams to focus on a shift-left approach by using DevOps best practices to configure, deploy, and monitor deployments. Each project includes tools that scan for potentially harmful resource changes, compliance, security, and cost, as well as tracking versioning and governance. They're designed with an IaC and compliance-first approach that helps to ensure that a project is managed, secure, and always compliant.
+A project is a named collection of configurations that are used to manage related resources and Infrastructure as Code (IaC) deployments across accounts. They enable your teams to focus on a shift-left approach by using DevOps best practices to configure, deploy, and monitor deployments. Each project includes tools that scan for potentially harmful resource changes, compliance, security, and cost, as well as tracking versioning and governance. They're designed with an IaC and compliance-first approach that helps to ensure that a project is managed, secure, and always compliant.
 
 ![The diagram shows the flow that a user would take when working with projects from creating a project, editing a configuration from the catalog, validating it, approving it, deploying resources, and then getting notified of available updates](images/projects-flow.svg){: caption="Figure 2. Understanding the projects workflow." caption-side="bottom"}
 
@@ -113,3 +115,5 @@ Also, using DevSecOps CI/CD/CC toolchains can help to automate the evaluation of
 With the tools available through {{site.data.keyword.cloud_notm}}, you can start and stay compliant with automation and ensure that deployments are done by using a secure software supply chain, all while managing your resources at scale. Go to the [{{site.data.keyword.cloud_notm}} catalog](/catalog) to check out the deployable architectures and visit the [{{site.data.keyword.compliance_short}}](/security-compliance/overview) today to start defining your goals for security and compliance.
 
 For more information about setting up your enterprise, configuring automated deployments by using projects, customizing deployable architectures, and more, see the [Enterprise account architecture](/docs/enterprise-account-architecture) white paper and [Running secure enterprise workloads](/docs/secure-enterprise) documentation.
+
+If you're already running workloads on the cloud, but you're not yet taking advantage of an enterprise account structure or tools like {{site.data.keyword.cloud_notm}} projects to manage related resources and IaC deployments across accounts, you can review the white paper on [moving to the enterprise architecture](/docs/adopt-enterprise-architecture?topic=adopt-enterprise-architecture-intro) and [learn how you can move existing deploy resources to a project](/docs/secure-enterprise?topic=secure-enterprise-move-deployed-resource-project).
