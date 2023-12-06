@@ -2,7 +2,7 @@
 copyright:
   years: 2015, 2023
 
-lastupdated: "2023-11-17"
+lastupdated: "2023-12-06"
 
 keywords: release notes, what's new in IBM Cloud, what's new for the platform, what is new, cloud updates, new features, platform release notes
 
@@ -29,6 +29,13 @@ Stay up-to-date with the new features that are available on the {{site.data.keyw
 
 Protect your private catalog and private products
 :   Add an extra layer of protection to your private catalogs with context-based restrictions. Users can view the catalogs that you protect only if they satisfy your rule. For more information, see [Protecting catalogs with context-based restrictions](/docs/account?topic=account-cbr&interface=terraform).
+
+### 14 November 2023
+{: #overview-nov1423}
+{: release-note}
+
+Move deployed software into a deployable architecture and manage it by using a project
+:   Use the [{{site.data.keyword.cloud_notm}} Catalogs management CLI plugin](/docs/cli?topic=cli-manage-catalogs-plugin#publish-utility-create) and the [Project CLI plugin](/docs/cli?topic=cli-projects-cli#project-cli-create-command) to convert deployed software or an existing {{site.data.keyword.bpshort}} workspace and its resources into a format that is compatible with using projects to manage future deployments. For more information, see [Moving resources from a Schematics workspace into a project](/docs/secure-enterprise?topic=secure-enterprise-move-deployed-resource-project) and the white paper on [Moving to the enterprise architecture](/docs/adopt-enterprise-architecture?topic=adopt-enterprise-architecture-intro).
 
 
 ### 09 November 2023
