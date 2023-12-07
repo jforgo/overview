@@ -226,6 +226,8 @@ Services that are hosted globally create resources that operate across multiple 
 | IBM Log Analysis | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | IBM Match 360 with Watson |  |  |  | 
 | IBM watsonx Code Assistant |  |  |  | 
+| IBM watsonx.governance | ![Checkmark icon](../icons/checkmark-icon.svg)  |  |  | 
+| IBM Watson OpenScale |  |  ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Image Service for VPC | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Instrument Analytics |  |  |  | 
 | Internet Services | Hosted Globally | Hosted Globally | Hosted Globally | 
